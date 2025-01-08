@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>جدول الموظفين</title>
+</head>
+<body>
+    <h1 style="text-align: center;">جدول الموظفين</h1>
+    <table border="1" style="width: 80%; margin: 0 auto; text-align: center; border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th>رقم الموظف</th>
+                <th>الاسم</th>
+                <th>المرتب (بالجنيه)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>محمد</td>
+                <td>8000</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>أحمد</td>
+                <td>7500</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>خالد</td>
+                <td>9000</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>علي</td>
+                <td>8500</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>ياسمين</td>
+                <td>9500</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>نادية</td>
+                <td>7000</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>إبراهيم</td>
+                <td>7700</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>سارة</td>
+                <td>8200</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>منى</td>
+                <td>8800</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>حسام</td>
+                <td>7600</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
